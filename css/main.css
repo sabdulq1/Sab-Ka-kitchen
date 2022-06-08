@@ -55,6 +55,15 @@ span{
     text-align:center;
     display: block;
 }
+.c{
+    color: red;
+    background-color: antiquewhite;
+    width: 160px;
+    height:160px;
+    margin:0 auto;
+    text-align:center;
+    display: block;
+}
 @media screen and (max-width:720px){
     span{
         display: block;
